@@ -59,7 +59,7 @@ mkdir -p ~/.config/aerospace
 touch aerospace.toml
 ```
 
-[aerospace.toml](aerospace.toml.md)
+[aerospace.toml](aerospace.toml)
 
 ### Terminal: 
 #### Alacritty
@@ -73,7 +73,7 @@ mkdir -p ~/.config/alacritty
 ```zsh
 touch alacritty.toml
 ```
-3. [alacritty.toml](alacritty.toml.md)
+3. [alacritty.toml](alacritty.toml)
 
 #### tmux
 
@@ -86,7 +86,7 @@ mkdir -p ~/.config/tmux
 ```zsh
 touch tmux.conf
 ```
-3. [tmux.conf](tmux.conf.md)
+3. [tmux.conf](tmux.conf)
 #### oh-my-zsh
 
 
