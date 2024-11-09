@@ -1,4 +1,4 @@
-## My complete setup 
+## My setup 
 *(this helps me keep track of my workspace and makes it easier to improve carefully)*
 
 Presented as a step by step tutorial to replicate my setup:
