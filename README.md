@@ -35,7 +35,7 @@ Presented as a step by step tutorial to replicate my setup:
 
 - brew install karabiner
 - change caps lock to left Ctrl.
-#### Aerospace
+#### Aerospace (might take it off)
 
 ```zsh
 brew install --cask nikitabobko/tap/aerospace
