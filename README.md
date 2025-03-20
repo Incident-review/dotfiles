@@ -35,31 +35,7 @@ Presented as a step by step tutorial to replicate my setup:
 
 - brew install karabiner
 - change caps lock to left Ctrl.
-#### Aerospace (might take it off)
 
-```zsh
-brew install --cask nikitabobko/tap/aerospace
-```
-
-After installing, add it to the path. This step shouldn’t be necessary on Intel macs.
-
-Run the following two commands to do so:
-
-```
-echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile
-eval "$(/opt/homebrew/bin/brew shellenv)"
-```
-
-Create configuration file:
-
-```zsh
-mkdir -p ~/.config/aerospace
-```
-```zsh
-touch aerospace.toml
-```
-
-[aerospace.toml](aerospace.toml)
 
 ### Terminal: 
 #### Alacritty
