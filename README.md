@@ -63,13 +63,22 @@ mkdir -p ~/.config/tmux
 touch tmux.conf
 ```
 3. [tmux.conf](tmux.conf)
-#### oh-my-zsh
 
+#### oh-my-zsh
+https://ohmyz.sh/
 
 #### tree
-#### fuzzyfinder
+https://github.com/peteretelej/tree
+
+#### fzf/fuzzyfinder
+https://github.com/junegunn/fzf
+
 #### zoxide
+https://github.com/ajeetdsouza/zoxide
 
 ### Editor
 
-#### Neovim
+#### Lazyvim
+https://github.com/LazyVim/starter
+
+
